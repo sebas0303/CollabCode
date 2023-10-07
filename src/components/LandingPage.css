@@ -1,0 +1,35 @@
+/* Estilos para el componente LandingPage */
+
+/* Fondo de pantalla */
+
+/* Estilos para el menú de navegación */
+.menu {
+  background-color: orange;
+  background-image: linear-gradient(to right, orange, yellow);
+  color: #000000;
+  padding: 10px 0;
+}
+
+.menu ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.menu li {
+  margin: 0 20px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.main-content {
+  text-align: center;
+  padding: 50px;
+  color: #000000; /* Color de texto principal */
+  font-family: Arial, sans-serif;
+}
